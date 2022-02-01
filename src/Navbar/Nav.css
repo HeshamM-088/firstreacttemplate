@@ -1,5 +1,5 @@
 .nav-section{
-    background-image: url('D:\learning hesham\project front-end\test javascript\react\firstreactapp\public\images\the-town-bg-01.jpg');
+    background-image: url(../Images/the-town-bg-01.jpg);
     background-size: cover;
     height: 100vh;
     background-position: center;
