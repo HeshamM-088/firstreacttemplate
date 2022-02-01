@@ -8,8 +8,8 @@ function Intro() {
   return(
 
     <section className='container intro-section'>
-        <div className='image-intro'>
-            <img src='images\the-town-01.jpg'></img>
+      <div className='image-intro'> 
+            <img src= {require ("../Images/the-town-01.jpg")} alt='here' />
         </div>
         <div className='text-intro'>
             <h1>Introduction</h1>
