@@ -14,11 +14,11 @@ function Imgs() {
           </div>
 
           <div className='imgs-img'>
-              <img src='images\gallery-img-01.jpg' />
-              <img src='images\gallery-img-02.jpg' />
-              <img src='images\gallery-img-03.jpg' />
-              <img src='images\gallery-img-04.jpg' />
-              <img src='images\gallery-img-05.jpg' />
+              <img src={require('../Images/gallery-img-01.jpg')} />
+              <img src={require('../Images/gallery-img-02.jpg')} />
+              <img src={require('../Images/gallery-img-03.jpg')} />
+              <img src={require('../Images/gallery-img-04.jpg')} />
+              <img src={require('../Images/gallery-img-05.jpg')} />
           </div>
         </div>
     </section>
